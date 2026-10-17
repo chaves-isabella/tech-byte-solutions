@@ -18,7 +18,7 @@ public class Usuario {
                 "id=" + id +
                 ", nome='" + nome + '\'' +
                 ", email='" + email + '\'' +
-                '}';
+                '}' + "\n";
     }
 
     public int getId() {

@@ -21,7 +21,7 @@ public class Produto {
                 ", nome='" + nome + '\'' +
                 ", descricao='" + descricao + '\'' +
                 ", preco=" + preco +
-                '}';
+                '}' + "\n";
     }
 
     public int getIdProduto() {
